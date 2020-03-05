@@ -1,0 +1,10 @@
+user_full=input('Enter your full name')
+print("welcome MR.", user_full.title(),"hows your day?")
+day_1 = input()
+a = input("what did you do")
+print("cool")
+b = input("what did you eat")
+print("your making me hungry")
+print("if am understanding you",a,"then you ate",b,"is that right?")
+c = input()
+
